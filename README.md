@@ -1,1 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/sdVoIvWy)
+This was the first group project (4 people).
+We had 2 weeks to do this quizz. 
+
+We choose to do a quizz about Harry Potter's universe. 🧙🏼
+
+There are 4 questions and a score page.
+You have a limited time to respond to each question but you can do it again and again !
