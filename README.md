@@ -1,7 +1,18 @@
-This was the first group project (4 people).
-We had 2 weeks to do this quizz. 
+># 👥 Group project
+>
+>🏃 Sprint : 2 weeks <br>
+>🧙🏼 Theme : Harry Potter's universe
+>
 
-We choose to do a quizz about Harry Potter's universe. 🧙🏼
+># 📚 Used stack
+>
+>🌐 JavaScript CSS HTML
+>
 
-There are 4 questions and a score page.
-You have a limited time to respond to each question but you can do it again and again !
+># 📑 Project guidlines
+>
+>❔ Create a quizz with 4 questions and a score page. <br>
+>💭 Learn to use Agile methods
+>
+
+
